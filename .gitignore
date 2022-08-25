@@ -1,0 +1,5 @@
+.terraform.*
+.terraform
+_backend.*
+_provider.*
+regional.*
