@@ -1,9 +1,3 @@
-.terraform.*
-.terraform
-_backend.*
-_provider.*
-regional.*
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
